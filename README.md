@@ -200,4 +200,4 @@ mvnw clean package -Dspring.profiles.active=prod
 * https://chatgpt.com/share/0f6265c1-d0a1-4e32-8b4e-d3da3cd8dd70
 * https://royleej9.tistory.com/entry/Spring-properties-%EC%84%A4%EC%A0%95-%EB%B6%84%EB%A6%AC2  
 * https://yungenie.tistory.com/14
-* https://youtu.be/-LGCGnG-rhw
+* https://youtu.be/aJcG2cyeULo
