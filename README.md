@@ -202,3 +202,4 @@ mvnw clean package -Dspring.profiles.active=prod
 * https://royleej9.tistory.com/entry/Spring-properties-%EC%84%A4%EC%A0%95-%EB%B6%84%EB%A6%AC2  
 * https://yungenie.tistory.com/14
 * https://youtu.be/aJcG2cyeULo
+* https://yjleekr.tistory.com/124
