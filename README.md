@@ -196,6 +196,7 @@ mvnw clean package -Dspring.profiles.active=prod
 ```
 이 방식은 선택된 Maven 프로필에 따라 각기 다른 `application-{profile}.yml` 파일을 포함하게 되어, 빌드와 실행 시 특정 환경 설정을 손쉽게 적용가능함.
 
+
 ### 참고
 * https://chatgpt.com/share/0f6265c1-d0a1-4e32-8b4e-d3da3cd8dd70
 * https://royleej9.tistory.com/entry/Spring-properties-%EC%84%A4%EC%A0%95-%EB%B6%84%EB%A6%AC2  
