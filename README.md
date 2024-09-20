@@ -1,3 +1,5 @@
+[English Version (README.EN.md)](./README.EN.md)
+
 Spring Boot 프로젝트에서 Maven을 사용해 프로필 별로 다양한 리소스 디렉터리와 여러 개의 `application-{profile}.yml` 파일을 설정하는 방법을 설명한다.이 구성은 개발`(dev)` 및 운영`(prod)` 환경에서 각각의 설정 파일을 관리하는 데 유용할 수 있다.
 
 ### 단계별 설정
